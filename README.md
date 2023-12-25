@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/coin-buzz-contract-testing.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/coin-buzz-contract-testing)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/coin-app-contract-testing.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/coin-app-contract-testing)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
@@ -15,10 +15,8 @@ Join a team of freelance writers and write about your favorite technology topics
 
 Reviewers: [Ron Powell][ron], [Stanley Ndagi][stan]
 
-
-[blog]: https://circleci.com/blog/beyond-api-testing-with-jest/
+[blog]: https://circleci.com/blog/api-contract-testing-with-joi/
 [author]: https://github.com/mwaz
-
 [gwp-program]: https://circle.ci/3ahQxfu
 [ron]: https://github.com/ronpowelljr
 [stan]: https://github.com/NdagiStanley
